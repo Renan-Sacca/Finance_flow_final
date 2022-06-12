@@ -1,0 +1,15 @@
+
+
+1) O que é a sinaliazação?
+A camada física gera sinais elétricos que representam "1"s e "0s" no meio físico, representando possíveis comunicações de sinais elétricos, pulsos de luz, etc. mudanças de nível.
+2) O que é a codificação?
+A codificação é um método de transformar um conjunto de dados representado por uma sequência de bits para fornecer um padrão para auxiliar o emissor e o receptor que melhora a detecção de erros no meio físico e também evita grandes sequências de "zero". ' e a ocorrência de ' 1'.
+3) Qual a diferença entre o Troughput e o Goodput?
+A taxa de transferência é o grau em que todos os bits são transmitidos dentro do meio físico em um determinado período de tempo. Por outro lado, Goodput é uma medida de transferência de dados úteis dentro de um determinado tempo, por isso é o indicador mais importante para o usuário, pois ele está interessado apenas em transferir dados úteis.
+4) Qual a diferença entre banda Base e Banda Larga?
+A principal diferença entre banda base e banda larga ocorre na transmissão de sinais, pois na transmissão em banda base um sinal é enviado por vez, enquanto na banda larga, vários sinais são enviados em várias frequências simultâneas usando um único canal.
+5) Qual a necessidade do trançado dos cabos UTP?
+A trança dos fios é projetada para eliminar sinais indesejados para evitar interferências devido ao campo magnético gerado por cada fio.
+6) O que é a blindagem dos cabos? E para que é necessário?
+
+Uma blindagem é uma malha de fios de metal que cobre um cabo para evitar que impulsos elétricos de sinais externos interfiram na transmissão de dados.
